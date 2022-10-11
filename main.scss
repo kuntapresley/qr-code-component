@@ -29,9 +29,9 @@ body{
     box-sizing: border-box;
     padding:0;
     margin:0;
-    font-size: 25px;
+    font-size: 15px;
     font-family: 'outfit',sans-serif;
-    font-weight: 700;
+    font-weight: 400;
 }
 img{
     max-width: 100%;
@@ -51,7 +51,7 @@ main{
     
     border: 1px  hsl(0, 0%, 100%) solid;
     
-    min-height: 50vh;
+    min-height: 100vh;
     max-width: 700px;
     display: flex;
     align-items: center;
@@ -91,9 +91,9 @@ h1{
     
         flex-direction: column;
     background-color: hsl(0, 0%, 100%) ;
-        padding: 20px;
+        
         border-radius: 30px;
-        margin: 20px;
+        
     }
     body{
         box-sizing: border-box;
